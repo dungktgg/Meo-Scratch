@@ -2,7 +2,7 @@
 *Just for fun my undone scratch project* 
 
 ## About 
-Created on: 19 ‎March ‎2020
+Created on 19 ‎March, ‎2020
 
 This is my game project when I was a kid. There are many logic errors and many flaws but I leave it there to review my old self :]
 
